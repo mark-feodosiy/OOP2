@@ -1,6 +1,6 @@
 package Block2;
 
-public class Truck extends Vehicle {
+public class Truck extends Car {
     private int loadCapacity;
 
     public Truck(String modelName, int wheelsCount, int loadCapacity) {
